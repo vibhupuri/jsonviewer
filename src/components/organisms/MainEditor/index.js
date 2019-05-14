@@ -42,8 +42,8 @@ export default class MainEditor extends Component {
         title={
           <FullWidth>
             <h3>
-              <span>JSON</span>
-              <small>Type Here</small>
+              <span> </span>
+              <small> </small>
               <Bulb
                 inline
                 color={isCodeValidJSON ? 'lightgreen' : 'red'}
@@ -68,10 +68,10 @@ export default class MainEditor extends Component {
             options={{
               tabSize: 4,
               mode: 'application/ld+json',
-              lineNumbers: true,
+              lineNumbers: false,
               gutters: ['CodeMirror-lint-markers'],
               lint: true,
-              theme: 'railscasts'
+              theme: 'default'
             }}
           />
         }
