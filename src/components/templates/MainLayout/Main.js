@@ -6,4 +6,6 @@ export default styled.div`
   bottom: 0;
   left: 0;
   right: 200px;
+  height : 100%;
+  width : 100%;
 `
