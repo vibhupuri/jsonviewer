@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export default styled.div`
-  background: #393838;
+  background: #ffffff;
   position: absolute;
   top: 0;
   bottom: 0;
