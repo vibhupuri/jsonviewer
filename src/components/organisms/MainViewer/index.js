@@ -68,10 +68,10 @@ class MainViewer extends Component {
       <EditorActionPaneLayout
         title={
           <div>
-            <h3>Viewer</h3>
-            {renderButton('tree', 'Tree')}
-            {renderButton('graph', 'Graph')}
-            {renderButton('repl', 'REPL')}
+            <h3></h3>
+            
+            {renderButton('graph', 'Click To Generate Graph')}
+             
           </div>
         }
         main={
