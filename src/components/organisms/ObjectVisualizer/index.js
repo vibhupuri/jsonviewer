@@ -8,7 +8,7 @@ const treeOpts = {
     height: '100%',
     text: {
       colors: {
-        'default': '#f4f1ed',
+        'default': '#000000',
         hover: 'white'
       }
     }
@@ -21,7 +21,7 @@ const treeOpts = {
     style: {
       'background-color': '#DCDCDC',
       'border-radius': '5px',
-      'color': '#323232',
+      'color': '#000000',
       'opacity': '0.9',
       'padding': '5px'
     }
