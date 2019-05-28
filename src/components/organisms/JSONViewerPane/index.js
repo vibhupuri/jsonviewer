@@ -17,7 +17,7 @@ export default () => (
           <a href=' '>Report issues</a>
         </li>
       </Links>
-      Made by <a href=' '>@secretmapper</a>
+    
     </Footer>
   </Wrapper>
 )
