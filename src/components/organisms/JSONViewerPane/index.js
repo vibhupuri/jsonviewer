@@ -11,13 +11,13 @@ export default () => (
     <Footer>
       <Links>
         <li>
-          <a href='//github.com/Secretmapper/jsonviewer'>Source code</a>
+          <a href=' r'>Source code</a>
         </li>
         <li>
-          <a href='//github.com/Secretmapper/jsonviewer/issues'>Report issues</a>
+          <a href=' '>Report issues</a>
         </li>
       </Links>
-      Made by <a href='http://twitter.com/Secretmapper'>@secretmapper</a>
+      Made by <a href=' '>@secretmapper</a>
     </Footer>
   </Wrapper>
 )
